@@ -1,0 +1,7 @@
+.\AwsReplicationWindowsInstaller.exe --region us-east-1 --endpoint --s3-endpoint --aws-access-key-id AKIAYZ2YEURPQ4WJML2W --aws-secret-access-key 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 --no-prompt
+
+172.26.81.7 vpce-05763715bac6f790d-jm8o2lry.mgn.us-east-1.vpce.amazonaws.com
+172.26.81.7 vpce-05763715bac6f790d-jm8o2lry-us-east-1a.mgn.us-east-1.vpce.amazonaws.com
+
+172.26.81.51 *.vpce-0d302ebd42c1f0c7f-obfsl42b.s3.us-east-1.vpce.amazonaws.com
+172.26.81.51 *.vpce-0d302ebd42c1f0c7f-obfsl42b-us-east-1a.s3.us-east-1.vpce.amazonaws.com
